@@ -138,4 +138,12 @@ img {
 img.death {
     margin-top: 30px;
 }
+
+p.modal_message {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 18px;
+    height: 0.5px;
+}
   
